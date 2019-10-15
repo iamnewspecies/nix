@@ -1,0 +1,2 @@
+# nix
+Figuring out nix
